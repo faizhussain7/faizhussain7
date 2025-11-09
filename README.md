@@ -43,7 +43,7 @@ Open-source projects in mobile & AI
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### Languages & Core
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"><br>
@@ -53,7 +53,7 @@ Open-source projects in mobile & AI
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### Mobile Development
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"><br>
@@ -64,7 +64,7 @@ Open-source projects in mobile & AI
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### AI & Machine Learning
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"><br>
@@ -74,7 +74,7 @@ Open-source projects in mobile & AI
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### Backend & Tools
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"><br>
