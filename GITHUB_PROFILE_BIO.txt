@@ -1,0 +1,28 @@
+GitHub Profile Bio Suggestions
+=============================
+
+Option 1 (Short & Professional):
+---------------------------------
+🚀 Full-Stack Developer | Mobile App Developer | AI Enthusiast | Python Developer
+Building innovative mobile apps with React Native & exploring AI/ML with Python
+
+Option 2 (Detailed):
+---------------------------------
+💻 Full-Stack Developer | 📱 React Native & Expo | 🐍 Python & AI/ML | 🤖 Machine Learning Enthusiast
+Passionate about building mobile applications and AI solutions
+
+Option 3 (Concise):
+---------------------------------
+Mobile Developer | Python & AI Enthusiast | React Native | Building innovative solutions
+
+Option 4 (With Emojis):
+---------------------------------
+🚀 Developer | 📱 Mobile Apps (React Native/Expo) | 🐍 Python & AI | 🤖 ML Enthusiast | Open Source Contributor
+
+Option 5 (Professional):
+---------------------------------
+Software Developer specializing in Mobile Applications (React Native) and AI/ML (Python)
+Passionate about creating innovative solutions and contributing to open-source projects
+
+Recommended: Option 1 or Option 4
+
