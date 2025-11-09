@@ -2,7 +2,9 @@
 
 # Hi there, I'm Faiz Hussain! 👋
 
-### 🚀 Full-Stack Developer | Android Developer | Mobile App Developer | AI Enthusiast | Python Developer
+I build mobile apps and backend systems (Android, React Native, .NET Core, FastAPI) and can also create web apps.  
+I work on web scraping, AI/ML integrations, and love experimenting with new tech.  
+Always building things that actually work and learning as I go! 🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/faizhussain7?label=Follow&style=social)](https://github.com/faizhussain7)
 [![GitHub stars](https://img.shields.io/github/stars/faizhussain7?label=Stars&style=social)](https://github.com/faizhussain7)
@@ -80,6 +82,8 @@ Open-source projects in mobile & AI
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"><br>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"><br>
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"><br>
+<img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"><br>
