@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   my-badges:
@@ -36,4 +37,18 @@ jobs:
             echo "GITHUB_TOKEN is empty. Enable Actions workflow permissions."
             exit 1
           fi
-          npx --yes update-my-badges "$GITHUB_USER" --token="$GITHUB_TOKEN" --repo="$GITHUB_REPO" --compact --size=56
+          npx --yes update-my-badges "$GITHUB_USER" --token="$GITHUB_TOKEN" --repo="$GITHUB_REPO" --compact --size=56 --dryrun
+
+      - name: Create pull request for badge updates
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: chore/update-achievement-badges
+          commit-message: "chore: update dynamic achievement badges"
+          title: "chore: update dynamic achievement badges"
+          body: |
+            Automated update of profile achievement badges.
+
+            - Regenerated badges via `update-my-badges`
+            - Updated README badge section and badge metadata files
+          delete-branch: true
