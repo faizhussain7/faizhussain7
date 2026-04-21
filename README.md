@@ -178,9 +178,7 @@ Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Opt
 
 ## GitHub Trophies
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=faizhussain7&theme=onestar&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10" width="100%" />
-</p>
+![GitHub Trophies](https://trophy.ryglcloud.net/?username=faizhussain7&theme=onestar&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10)
 
 </td>
 <td width="50%" valign="top">
@@ -189,21 +187,17 @@ Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Opt
 
 **Official GitHub Achievements**
 <!-- official-achievements start -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+![Achievement: Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-1F6FEB?style=for-the-badge&logo=github&logoColor=white)
+![Achievement: Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-58A6FF?style=for-the-badge&logo=github&logoColor=white)
 <!-- official-achievements end -->
 
 **Badges**
 <!-- my-badges start -->
-<p align="center">
-  <a href="my-badges/ab-commit.md" title="One of my commit sha starts with &quot;ab&quot;."><img src="https://img.shields.io/badge/Badge-Ab%20Commit-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="One of my commit sha starts with &quot;ab&quot;." /></a>
-  <a href="my-badges/epic-commit.md" title="I made an epic commit with a message over 500 chars."><img src="https://img.shields.io/badge/Badge-Epic%20Commit-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="I made an epic commit with a message over 500 chars." /></a>
-  <a href="my-badges/favorite-word.md" title="My favorite word is &quot;add&quot;."><img src="https://img.shields.io/badge/Badge-Favorite%20Word-8250DF?style=for-the-badge&logo=github&logoColor=white" alt="My favorite word is &quot;add&quot;." /></a>
-  <a href="my-badges/self-star.md" title="I've starred 8 my own repositories."><img src="https://img.shields.io/badge/Badge-Self%20Star-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="I've starred 8 my own repositories." /></a>
-  <a href="my-badges/sleepy-coder.md" title="I am a sleepy coder."><img src="https://img.shields.io/badge/Badge-Sleepy%20Coder-218BFF?style=for-the-badge&logo=github&logoColor=white" alt="I am a sleepy coder." /></a>
-</p>
+[![One of my commit sha starts with "ab".](https://img.shields.io/badge/Badge-Ab%20Commit-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](my-badges/ab-commit.md)
+[![I made an epic commit with a message over 500 chars.](https://img.shields.io/badge/Badge-Epic%20Commit-58A6FF?style=for-the-badge&logo=github&logoColor=white)](my-badges/epic-commit.md)
+[![My favorite word is "add".](https://img.shields.io/badge/Badge-Favorite%20Word-8250DF?style=for-the-badge&logo=github&logoColor=white)](my-badges/favorite-word.md)
+[![I've starred 8 my own repositories.](https://img.shields.io/badge/Badge-Self%20Star-0969DA?style=for-the-badge&logo=github&logoColor=white)](my-badges/self-star.md)
+[![I am a sleepy coder.](https://img.shields.io/badge/Badge-Sleepy%20Coder-218BFF?style=for-the-badge&logo=github&logoColor=white)](my-badges/sleepy-coder.md)
 <!-- my-badges end -->
 
 </td>
