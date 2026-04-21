@@ -2,7 +2,7 @@
 
 # Hi there, I'm Faiz Hussain! 👋
 
-I build mobile apps and backend systems (Android, React Native, .NET Core, FastAPI) and can also create web apps.  
+I build mobile apps and backend systems (Android, React Native, iOS, .NET Core, FastAPI) and can also create web apps.  
 I work on web scraping, AI/ML integrations, and love experimenting with new tech.  
 Always building things that actually work and learning as I go! 🚀
 
@@ -11,7 +11,7 @@ Always building things that actually work and learning as I go! 🚀
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -24,6 +24,8 @@ Working on mobile applications and AI/ML projects
 - → Kotlin & Jetpack Compose
 - → Advanced Python & Machine Learning
 - → React Native patterns
+- → Expanding hands in iOS and exploring it
+- → Taking interest in C++ core and its uses
 
 ### Collaboration
 Open-source projects in mobile & AI
@@ -32,6 +34,7 @@ Open-source projects in mobile & AI
 - → Kotlin, Jetpack Compose, Android
 - → React Native, Expo, TypeScript
 - → Python, AI/ML, Backend
+- → Swift, iOS, C++
 
 ### Contact
 [mfaizhussain7@gmail.com](mailto:mfaizhussain7@gmail.com)
@@ -52,7 +55,8 @@ Open-source projects in mobile & AI
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"><br>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 
 </td>
 <td width="50%" valign="top">
@@ -62,6 +66,8 @@ Open-source projects in mobile & AI
 <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"><br>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"><br>
 
 </td>
 </tr>
@@ -103,9 +109,10 @@ Open-source projects in mobile & AI
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizhussain7&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizhussain7&layout=compact&theme=gruvbox&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizhussain7&theme=github_dark" width="82%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faizhussain7&theme=github_dark" width="82%" />
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -158,25 +165,32 @@ Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Opt
 </tr>
 </table>
 
-<table>
-<tr>
-<td colspan="2">
-
 ## Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizhussain7&theme=github&hide_border=true&area=true)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizhussain7&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=Commit%20Activity" width="88%" />
+  <img src="https://streak-stats.demolab.com?user=faizhussain7&theme=github-dark-blue&hide_border=true&card_width=460" width="72%" />
+</p>
 
 <table>
 <tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
 ## GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=faizhussain7&theme=github&no-frame=true&no-bg=true&margin-w=4&column=7)
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=faizhussain7&theme=onestar&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10" width="100%" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+## Achievements
+
+<div align="center" width="100%">
+<!-- my-badges start -->
+<!-- my-badges end -->
+</div>
 
 </td>
 </tr>
