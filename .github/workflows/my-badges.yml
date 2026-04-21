@@ -21,6 +21,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
+      - name: Setup Node.js 22 LTS
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
       - name: Generate dynamic achievement badges
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
