@@ -195,11 +195,6 @@ Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Opt
 
 **Badges**
 <!-- my-badges start -->
-[![One of my commit sha starts with "ab".](https://img.shields.io/badge/Badge-Ab%20Commit-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](my-badges/ab-commit.md)
-[![I made an epic commit with a message over 500 chars.](https://img.shields.io/badge/Badge-Epic%20Commit-58A6FF?style=for-the-badge&logo=github&logoColor=white)](my-badges/epic-commit.md)
-[![My favorite word is "add".](https://img.shields.io/badge/Badge-Favorite%20Word-8250DF?style=for-the-badge&logo=github&logoColor=white)](my-badges/favorite-word.md)
-[![I've starred 8 my own repositories.](https://img.shields.io/badge/Badge-Self%20Star-0969DA?style=for-the-badge&logo=github&logoColor=white)](my-badges/self-star.md)
-[![I am a sleepy coder.](https://img.shields.io/badge/Badge-Sleepy%20Coder-218BFF?style=for-the-badge&logo=github&logoColor=white)](my-badges/sleepy-coder.md)
 <!-- my-badges end -->
 
 </td>
