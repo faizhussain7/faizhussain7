@@ -128,34 +128,24 @@ jobs:
           replacement = f"{start_marker}\n{block}\n{end_marker}"
           new_content = pattern.sub(replacement, content)
 
-          # Build robust dynamic badges from local my-badges JSON
+          # Build dynamic badges from local my-badges JSON (real badge images)
           dynamic_block_lines = []
           json_path = os.path.join("my-badges", "my-badges.json")
-          def icon_for_badge_id(badge_id: str) -> str:
-              bid = badge_id.lower()
-              if "star" in bid:
-                  return "https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"
-              if "word" in bid:
-                  return "https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"
-              if "sleep" in bid:
-                  return "https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"
-              if "commit" in bid:
-                  return "https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"
-              return "https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"
-
           if os.path.exists(json_path):
               try:
                   with open(json_path, "r", encoding="utf-8") as jf:
                       badges = json.load(jf)
                   if isinstance(badges, list) and badges:
                       dynamic_block_lines.append('<p align="center">')
-                      for idx, badge in enumerate(badges):
+                      for badge in badges:
                           badge_id = str(badge.get("id", "badge")).replace("-", " ").title()
                           desc = str(badge.get("desc", "Dynamic Badge"))
                           file_id = str(badge.get("id", "badge"))
-                          icon_url = icon_for_badge_id(file_id)
+                          icon_url = str(badge.get("image", "")).strip()
+                          if not icon_url:
+                              continue
                           dynamic_block_lines.append(
-                              f'  <a href="my-badges/{file_id}.md" title="{desc}"><img src="{icon_url}" alt="{badge_id}" width="54" /></a>'
+                              f'  <a href="my-badges/{file_id}.md" title="{desc}"><img src="{icon_url}" alt="{badge_id}" width="64" /></a>'
                           )
                       dynamic_block_lines.append("</p>")
                   else:
