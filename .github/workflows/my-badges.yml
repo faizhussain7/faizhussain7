@@ -1,5 +1,8 @@
 name: Update achievements badges
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   push:
     branches:
@@ -70,12 +73,12 @@ jobs:
           dyn_end_marker = "<!-- my-badges end -->"
 
           achievement_defs = [
-              ("Quickdraw", "1F6FEB"),
-              ("Pull Shark", "58A6FF"),
-              ("Pair Extraordinaire", "8250DF"),
-              ("Starstruck", "0969DA"),
-              ("Galaxy Brain", "0A3069"),
-              ("YOLO", "218BFF"),
+              ("Quickdraw", "quickdraw-default.png"),
+              ("Pull Shark", "pull-shark-default.png"),
+              ("Pair Extraordinaire", "pair-extraordinaire-default.png"),
+              ("Starstruck", "starstruck-default.png"),
+              ("Galaxy Brain", "galaxy-brain-default.png"),
+              ("YOLO", "yolo-default.png"),
           ]
 
           html = ""
@@ -98,15 +101,18 @@ jobs:
 
           found = []
           lower_html = html.lower()
-          for name, color in achievement_defs:
+          for name, icon_file in achievement_defs:
               if name.lower() in lower_html:
-                  found.append((name, color))
+                  found.append((name, icon_file))
 
           badge_lines = []
           if found:
-              for name, color in found:
-                  label = name.replace(" ", "%20")
-                  badge_lines.append(f'![Achievement: {name}](https://img.shields.io/badge/Achievement-{label}-{color}?style=for-the-badge&logo=github&logoColor=white)')
+              badge_lines.append('<p align="center">')
+              for name, icon_file in found:
+                  badge_lines.append(
+                      f'  <img src="https://github.githubassets.com/images/modules/profile/achievements/{icon_file}" alt="{name}" title="{name}" width="64" />'
+                  )
+              badge_lines.append("</p>")
           else:
               badge_lines.append("_No public GitHub achievements detected from profile page yet._")
 

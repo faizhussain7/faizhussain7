@@ -187,8 +187,6 @@ Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Opt
 
 **Official GitHub Achievements**
 <!-- official-achievements start -->
-![Achievement: Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-1F6FEB?style=for-the-badge&logo=github&logoColor=white)
-![Achievement: Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-58A6FF?style=for-the-badge&logo=github&logoColor=white)
 <!-- official-achievements end -->
 
 **Badges**
