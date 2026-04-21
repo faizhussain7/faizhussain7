@@ -188,6 +188,11 @@ Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Opt
 ## Achievements
 
 <!-- my-badges start -->
+<a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="56"></a>
+<a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="56"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="56"></a>
+<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 8 my own repositories." title="I&apos;ve starred 8 my own repositories." width="56"></a>
+<a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="56"></a>
 <!-- my-badges end -->
 
 </td>
