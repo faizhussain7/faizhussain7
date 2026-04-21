@@ -187,10 +187,8 @@ Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Opt
 
 ## Achievements
 
-<div align="center" width="100%">
 <!-- my-badges start -->
 <!-- my-badges end -->
-</div>
 
 </td>
 </tr>

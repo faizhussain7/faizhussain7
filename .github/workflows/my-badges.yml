@@ -25,4 +25,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npx update-my-badges "${{ github.repository_owner }}" --compact --size=56
+          npx --yes update-my-badges "${{ github.repository_owner }}" --compact --size=56
