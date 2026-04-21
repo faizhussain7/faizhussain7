@@ -55,14 +55,19 @@ jobs:
           GITHUB_USER: ${{ github.repository_owner }}
         run: |
           python3 - <<'PY'
+          import json
+          import os
           import re
           import urllib.request
           from urllib.error import URLError, HTTPError
+          from urllib.parse import quote
 
           user = "${{ github.repository_owner }}"
           readme_path = "README.md"
           start_marker = "<!-- official-achievements start -->"
           end_marker = "<!-- official-achievements end -->"
+          dyn_start_marker = "<!-- my-badges start -->"
+          dyn_end_marker = "<!-- my-badges end -->"
 
           achievement_defs = [
               ("Quickdraw", "1F6FEB"),
@@ -120,6 +125,43 @@ jobs:
           )
           replacement = f"{start_marker}\n{block}\n{end_marker}"
           new_content = pattern.sub(replacement, content)
+
+          # Build robust dynamic badges from local my-badges JSON
+          dynamic_block_lines = []
+          json_path = os.path.join("my-badges", "my-badges.json")
+          colors = ["1F6FEB", "58A6FF", "8250DF", "0969DA", "218BFF", "0A3069"]
+          if os.path.exists(json_path):
+              try:
+                  with open(json_path, "r", encoding="utf-8") as jf:
+                      badges = json.load(jf)
+                  if isinstance(badges, list) and badges:
+                      dynamic_block_lines.append('<p align="center">')
+                      for idx, badge in enumerate(badges):
+                          badge_id = str(badge.get("id", "badge")).replace("-", " ").title()
+                          desc = str(badge.get("desc", "Dynamic Badge"))
+                          file_id = str(badge.get("id", "badge"))
+                          color = colors[idx % len(colors)]
+                          label = quote("Badge")
+                          message = quote(badge_id)
+                          alt = desc.replace('"', "&quot;")
+                          dynamic_block_lines.append(
+                              f'  <a href="my-badges/{file_id}.md" title="{alt}"><img src="https://img.shields.io/badge/{label}-{message}-{color}?style=for-the-badge&logo=github&logoColor=white" alt="{alt}" /></a>'
+                          )
+                      dynamic_block_lines.append("</p>")
+                  else:
+                      dynamic_block_lines.append("_No dynamic badges generated yet._")
+              except Exception:
+                  dynamic_block_lines.append("_Dynamic badge data could not be parsed._")
+          else:
+              dynamic_block_lines.append("_No dynamic badges generated yet._")
+
+          dyn_block = "\n".join(dynamic_block_lines)
+          dyn_pattern = re.compile(
+              re.escape(dyn_start_marker) + r".*?" + re.escape(dyn_end_marker),
+              re.DOTALL,
+          )
+          dyn_replacement = f"{dyn_start_marker}\n{dyn_block}\n{dyn_end_marker}"
+          new_content = dyn_pattern.sub(dyn_replacement, new_content)
 
           with open(readme_path, "w", encoding="utf-8") as f:
               f.write(new_content)
