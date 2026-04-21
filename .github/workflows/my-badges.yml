@@ -24,9 +24,14 @@ jobs:
       - name: Generate dynamic achievement badges
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          GITHUB_REPO: ${{ github.repository }}
         run: |
+          echo "Token length: ${#GITHUB_TOKEN}"
+          echo "User: $GITHUB_USER"
+          echo "Repo: $GITHUB_REPO"
           if [ -z "$GITHUB_TOKEN" ]; then
             echo "GITHUB_TOKEN is empty. Enable Actions workflow permissions."
             exit 1
           fi
-          npx --yes update-my-badges "${{ github.repository_owner }}" --repo="${{ github.repository }}" --token="$GITHUB_TOKEN" --compact --size=56
+          npx --yes update-my-badges "$GITHUB_USER" --compact --size=56
