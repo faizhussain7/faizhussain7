@@ -197,6 +197,13 @@ Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Opt
 
 **Badges**
 <!-- my-badges start -->
+<p align="center">
+  <a href="my-badges/ab-commit.md" title="One of my commit sha starts with &quot;ab&quot;."><img src="https://img.shields.io/badge/Badge-Ab%20Commit-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="One of my commit sha starts with &quot;ab&quot;." /></a>
+  <a href="my-badges/epic-commit.md" title="I made an epic commit with a message over 500 chars."><img src="https://img.shields.io/badge/Badge-Epic%20Commit-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="I made an epic commit with a message over 500 chars." /></a>
+  <a href="my-badges/favorite-word.md" title="My favorite word is &quot;add&quot;."><img src="https://img.shields.io/badge/Badge-Favorite%20Word-8250DF?style=for-the-badge&logo=github&logoColor=white" alt="My favorite word is &quot;add&quot;." /></a>
+  <a href="my-badges/self-star.md" title="I've starred 8 my own repositories."><img src="https://img.shields.io/badge/Badge-Self%20Star-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="I've starred 8 my own repositories." /></a>
+  <a href="my-badges/sleepy-coder.md" title="I am a sleepy coder."><img src="https://img.shields.io/badge/Badge-Sleepy%20Coder-218BFF?style=for-the-badge&logo=github&logoColor=white" alt="I am a sleepy coder." /></a>
+</p>
 <!-- my-badges end -->
 
 </td>
