@@ -50,6 +50,81 @@ jobs:
           fi
           git status --short
 
+      - name: Update official achievements badges dynamically
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: |
+          python3 - <<'PY'
+          import re
+          import urllib.request
+          from urllib.error import URLError, HTTPError
+
+          user = "${{ github.repository_owner }}"
+          readme_path = "README.md"
+          start_marker = "<!-- official-achievements start -->"
+          end_marker = "<!-- official-achievements end -->"
+
+          achievement_defs = [
+              ("Quickdraw", "1F6FEB"),
+              ("Pull Shark", "58A6FF"),
+              ("Pair Extraordinaire", "8250DF"),
+              ("Starstruck", "0969DA"),
+              ("Galaxy Brain", "0A3069"),
+              ("YOLO", "218BFF"),
+          ]
+
+          html = ""
+          urls = [
+              f"https://github.com/{user}?tab=achievements",
+              f"https://github.com/{user}",
+          ]
+          for url in urls:
+              try:
+                  req = urllib.request.Request(
+                      url,
+                      headers={"User-Agent": "Mozilla/5.0", "Accept": "text/html"},
+                  )
+                  with urllib.request.urlopen(req, timeout=20) as resp:
+                      html = resp.read().decode("utf-8", errors="ignore")
+                  if html:
+                      break
+              except (URLError, HTTPError):
+                  continue
+
+          found = []
+          lower_html = html.lower()
+          for name, color in achievement_defs:
+              if name.lower() in lower_html:
+                  found.append((name, color))
+
+          badge_lines = []
+          if found:
+              badge_lines.append('<p align="center">')
+              for name, color in found:
+                  label = name.replace(" ", "%20")
+                  badge_lines.append(
+                      f'  <img src="https://img.shields.io/badge/Achievement-{label}-{color}?style=for-the-badge&logo=github&logoColor=white" />'
+                  )
+              badge_lines.append("</p>")
+          else:
+              badge_lines.append("_No public GitHub achievements detected from profile page yet._")
+
+          block = "\n".join(badge_lines)
+
+          with open(readme_path, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = re.compile(
+              re.escape(start_marker) + r".*?" + re.escape(end_marker),
+              re.DOTALL,
+          )
+          replacement = f"{start_marker}\n{block}\n{end_marker}"
+          new_content = pattern.sub(replacement, content)
+
+          with open(readme_path, "w", encoding="utf-8") as f:
+              f.write(new_content)
+          PY
+
       - name: Create pull request for badge updates
         uses: peter-evans/create-pull-request@v7
         with:
