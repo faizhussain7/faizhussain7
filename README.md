@@ -187,6 +187,10 @@ Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Opt
 
 **Official GitHub Achievements**
 <!-- official-achievements start -->
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" title="Quickdraw" width="64" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" title="Pull Shark" width="64" />
+</p>
 <!-- official-achievements end -->
 
 **Badges**
