@@ -37,7 +37,7 @@ jobs:
             echo "GITHUB_TOKEN is empty. Enable Actions workflow permissions."
             exit 1
           fi
-          npx --yes update-my-badges "$GITHUB_USER" --token="$GITHUB_TOKEN" --repo="$GITHUB_REPO" --compact --size=56 --dryrun
+          npx --yes update-my-badges "$GITHUB_USER" --token="$GITHUB_TOKEN" --repo="$GITHUB_REPO" --compact --size=56
 
       - name: Create pull request for badge updates
         uses: peter-evans/create-pull-request@v7
