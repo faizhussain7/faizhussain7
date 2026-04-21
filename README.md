@@ -196,11 +196,11 @@ Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Opt
 **Badges**
 <!-- my-badges start -->
 <p align="center">
-  <a href="my-badges/ab-commit.md" title="One of my commit sha starts with "ab"."><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Ab Commit" width="54" /></a>
-  <a href="my-badges/epic-commit.md" title="I made an epic commit with a message over 500 chars."><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Epic Commit" width="54" /></a>
-  <a href="my-badges/favorite-word.md" title="My favorite word is "add"."><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Favorite Word" width="54" /></a>
-  <a href="my-badges/self-star.md" title="I've starred 8 my own repositories."><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Self Star" width="54" /></a>
-  <a href="my-badges/sleepy-coder.md" title="I am a sleepy coder."><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Sleepy Coder" width="54" /></a>
+  <a href="my-badges/ab-commit.md" title="One of my commit sha starts with "ab"."><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="Ab Commit" width="64" /></a>
+  <a href="my-badges/epic-commit.md" title="I made an epic commit with a message over 500 chars."><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic Commit" width="64" /></a>
+  <a href="my-badges/favorite-word.md" title="My favorite word is "add"."><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="Favorite Word" width="64" /></a>
+  <a href="my-badges/self-star.md" title="I've starred 8 my own repositories."><img src="https://my-badges.github.io/my-badges/self-star.png" alt="Self Star" width="64" /></a>
+  <a href="my-badges/sleepy-coder.md" title="I am a sleepy coder."><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Sleepy Coder" width="64" /></a>
 </p>
 <!-- my-badges end -->
 
