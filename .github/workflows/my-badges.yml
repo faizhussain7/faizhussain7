@@ -39,6 +39,17 @@ jobs:
           fi
           npx --yes update-my-badges "$GITHUB_USER" --token="$GITHUB_TOKEN" --repo="$GITHUB_REPO" --compact --size=56 --dryrun
 
+      - name: Sync generated badges into workspace
+        run: |
+          if [ -f repo/README.md ]; then
+            cp repo/README.md README.md
+          fi
+          if [ -d repo/my-badges ]; then
+            rm -rf my-badges
+            cp -R repo/my-badges my-badges
+          fi
+          git status --short
+
       - name: Create pull request for badge updates
         uses: peter-evans/create-pull-request@v7
         with:
