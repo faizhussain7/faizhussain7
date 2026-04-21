@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/faizhussain7/SupabaseConnect/commit/ab2354740cdbb10c513132387809528481496c79\"><strong>ab</strong>2354740cdbb10c513132387809528481496c79</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/faizhussain7/faizhussain7/commit/ab965d464e6ed7d98ad8cbc5e5536e9250b866d2\">ab965d4</a>\n- <a href=\"https://github.com/faizhussain7/GQR-GlobalQR/commit/903c8f17a7bc0fb8dbf94a8c14f7d4c70cbcca5f\">903c8f1</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 28 times)\n2. update (used 28 times)\n3. workflow (used 18 times)\n4. readme.md (used 16 times)\n5. badge (used 15 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 8 my own repositories.",
+    "body": "- <a href=\"https://github.com/faizhussain7/DeepLearning-SelfDrivingCar\">faizhussain7/DeepLearning-SelfDrivingCar</a>\n- <a href=\"https://github.com/faizhussain7/AIAutoAccelerate\">faizhussain7/AIAutoAccelerate</a>\n- <a href=\"https://github.com/faizhussain7/AutoAccelerate-API\">faizhussain7/AutoAccelerate-API</a>\n- <a href=\"https://github.com/faizhussain7/SupabaseConnect\">faizhussain7/SupabaseConnect</a>\n- <a href=\"https://github.com/faizhussain7/Personify\">faizhussain7/Personify</a>\n- <a href=\"https://github.com/faizhussain7/faizhussain7\">faizhussain7/faizhussain7</a>\n- <a href=\"https://github.com/faizhussain7/GQR-GlobalQR\">faizhussain7/GQR-GlobalQR</a>\n- <a href=\"https://github.com/faizhussain7/Sound-ID\">faizhussain7/Sound-ID</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/faizhussain7/SupabaseConnect/commit/ab2354740cdbb10c513132387809528481496c79\">ab23547</a>\n- <a href=\"https://github.com/faizhussain7/SupabaseConnect/commit/5087a3dc9cfd16069571ad59c73c7c2fccbee79d\">5087a3d</a>\n- <a href=\"https://github.com/faizhussain7/SupabaseConnect/commit/5a0673859e18bd8e125376c622fd3348fb8914c4\">5a06738</a>\n- <a href=\"https://github.com/faizhussain7/AIAutoAccelerate/commit/f804694670a5c8a249f4f6314c4762b4a9dfd242\">f804694</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  }
+]
