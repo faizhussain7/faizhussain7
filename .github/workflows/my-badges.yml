@@ -22,9 +22,7 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Generate dynamic achievement badges
-        uses: my-badges/my-badges@master
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          compact: true
-          size: 56
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx update-my-badges "${{ github.repository_owner }}" --compact --size=56
