@@ -1,0 +1,2238 @@
+{
+  "user": {
+    "id": "U_kgDOBnU06w",
+    "login": "faizhussain7",
+    "name": "Mohammed Faiz Hussain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108344555?u=73f58a38342b4313368c7b1c6d9f57dff0a738a5&v=4",
+    "bio": "Software Developer creating scalable mobile applications with React Native and Android (Java/Kotlin), driven by a passion for AI/ML with Python.",
+    "company": null,
+    "location": null,
+    "email": "",
+    "twitterUsername": "m_faizhussain7",
+    "websiteUrl": null,
+    "status": null,
+    "createdAt": "2022-06-28T12:51:07Z",
+    "followers": {
+      "totalCount": 1
+    },
+    "following": {
+      "totalCount": 4
+    },
+    "anyPinnableItems": true,
+    "pinnedItems": {
+      "totalCount": 0,
+      "nodes": []
+    },
+    "sponsoring": {
+      "totalCount": 0
+    },
+    "sponsors": {
+      "totalCount": 0
+    },
+    "starredRepositories": {
+      "totalCount": 9
+    },
+    "publicKeys": {
+      "totalCount": 0,
+      "nodes": []
+    }
+  },
+  "starredRepositories": [
+    {
+      "name": "langflow",
+      "owner": {
+        "login": "langflow-ai"
+      },
+      "nameWithOwner": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stargazers": {
+        "totalCount": 147205
+      },
+      "languages": {
+        "totalCount": 11,
+        "edges": [
+          {
+            "size": 15394574,
+            "node": {
+              "name": "Python"
+            }
+          },
+          {
+            "size": 6778828,
+            "node": {
+              "name": "TypeScript"
+            }
+          },
+          {
+            "size": 4005800,
+            "node": {
+              "name": "JavaScript"
+            }
+          },
+          {
+            "size": 86190,
+            "node": {
+              "name": "CSS"
+            }
+          },
+          {
+            "size": 55767,
+            "node": {
+              "name": "Makefile"
+            }
+          },
+          {
+            "size": 39298,
+            "node": {
+              "name": "Shell"
+            }
+          },
+          {
+            "size": 29810,
+            "node": {
+              "name": "Dockerfile"
+            }
+          },
+          {
+            "size": 5904,
+            "node": {
+              "name": "PowerShell"
+            }
+          },
+          {
+            "size": 4447,
+            "node": {
+              "name": "Batchfile"
+            }
+          },
+          {
+            "size": 1151,
+            "node": {
+              "name": "HTML"
+            }
+          }
+        ]
+      },
+      "licenseInfo": {
+        "name": "MIT License",
+        "nickname": null
+      }
+    },
+    {
+      "name": "DeepLearning-SelfDrivingCar",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "nameWithOwner": "faizhussain7/DeepLearning-SelfDrivingCar",
+      "url": "https://github.com/faizhussain7/DeepLearning-SelfDrivingCar",
+      "description": null,
+      "stargazers": {
+        "totalCount": 1
+      },
+      "languages": {
+        "totalCount": 2,
+        "edges": [
+          {
+            "size": 26153,
+            "node": {
+              "name": "Python"
+            }
+          },
+          {
+            "size": 1102,
+            "node": {
+              "name": "kvlang"
+            }
+          }
+        ]
+      },
+      "licenseInfo": null
+    },
+    {
+      "name": "AIAutoAccelerate",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "nameWithOwner": "faizhussain7/AIAutoAccelerate",
+      "url": "https://github.com/faizhussain7/AIAutoAccelerate",
+      "description": "The Generative AI app offers comprehensive automobile insights and personalized car recommendations.",
+      "stargazers": {
+        "totalCount": 1
+      },
+      "languages": {
+        "totalCount": 2,
+        "edges": [
+          {
+            "size": 188462,
+            "node": {
+              "name": "TypeScript"
+            }
+          },
+          {
+            "size": 402,
+            "node": {
+              "name": "JavaScript"
+            }
+          }
+        ]
+      },
+      "licenseInfo": null
+    },
+    {
+      "name": "AutoAccelerate-API",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "nameWithOwner": "faizhussain7/AutoAccelerate-API",
+      "url": "https://github.com/faizhussain7/AutoAccelerate-API",
+      "description": "A Generative AI API Built with Python and FastAPI",
+      "stargazers": {
+        "totalCount": 1
+      },
+      "languages": {
+        "totalCount": 1,
+        "edges": [
+          {
+            "size": 2104,
+            "node": {
+              "name": "Python"
+            }
+          }
+        ]
+      },
+      "licenseInfo": null
+    },
+    {
+      "name": "SupabaseConnect",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "nameWithOwner": "faizhussain7/SupabaseConnect",
+      "url": "https://github.com/faizhussain7/SupabaseConnect",
+      "description": " A secure, cloud-based app for storing files and images, built with React Native Expo and powered by Supabase.",
+      "stargazers": {
+        "totalCount": 1
+      },
+      "languages": {
+        "totalCount": 4,
+        "edges": [
+          {
+            "size": 79761,
+            "node": {
+              "name": "TypeScript"
+            }
+          },
+          {
+            "size": 2874,
+            "node": {
+              "name": "JavaScript"
+            }
+          },
+          {
+            "size": 802,
+            "node": {
+              "name": "HTML"
+            }
+          },
+          {
+            "size": 59,
+            "node": {
+              "name": "CSS"
+            }
+          }
+        ]
+      },
+      "licenseInfo": null
+    },
+    {
+      "name": "Personify",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "nameWithOwner": "faizhussain7/Personify",
+      "url": "https://github.com/faizhussain7/Personify",
+      "description": "A full-stack mobile application built with React Native, Expo, and .NET Core Web API to manage a database of persons with full CRUD functionality.",
+      "stargazers": {
+        "totalCount": 1
+      },
+      "languages": {
+        "totalCount": 3,
+        "edges": [
+          {
+            "size": 36653,
+            "node": {
+              "name": "TypeScript"
+            }
+          },
+          {
+            "size": 1395,
+            "node": {
+              "name": "JavaScript"
+            }
+          },
+          {
+            "size": 551,
+            "node": {
+              "name": "CSS"
+            }
+          }
+        ]
+      },
+      "licenseInfo": null
+    },
+    {
+      "name": "faizhussain7",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "nameWithOwner": "faizhussain7/faizhussain7",
+      "url": "https://github.com/faizhussain7/faizhussain7",
+      "description": null,
+      "stargazers": {
+        "totalCount": 1
+      },
+      "languages": {
+        "totalCount": 0,
+        "edges": []
+      },
+      "licenseInfo": null
+    },
+    {
+      "name": "GQR-GlobalQR",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "nameWithOwner": "faizhussain7/GQR-GlobalQR",
+      "url": "https://github.com/faizhussain7/GQR-GlobalQR",
+      "description": "Global QR Scanner - Universal QR code scanner with UPI support, intelligent classification, and beautiful UI. Built with React Native & Expo.",
+      "stargazers": {
+        "totalCount": 1
+      },
+      "languages": {
+        "totalCount": 2,
+        "edges": [
+          {
+            "size": 107867,
+            "node": {
+              "name": "TypeScript"
+            }
+          },
+          {
+            "size": 3587,
+            "node": {
+              "name": "JavaScript"
+            }
+          }
+        ]
+      },
+      "licenseInfo": null
+    },
+    {
+      "name": "Sound-ID",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "nameWithOwner": "faizhussain7/Sound-ID",
+      "url": "https://github.com/faizhussain7/Sound-ID",
+      "description": "SoundID: AI-powered app for instant audio & song identification, built with React Native, TypeScript, Expo, and Nativewind.",
+      "stargazers": {
+        "totalCount": 2
+      },
+      "languages": {
+        "totalCount": 3,
+        "edges": [
+          {
+            "size": 49196,
+            "node": {
+              "name": "TypeScript"
+            }
+          },
+          {
+            "size": 1252,
+            "node": {
+              "name": "JavaScript"
+            }
+          },
+          {
+            "size": 59,
+            "node": {
+              "name": "CSS"
+            }
+          }
+        ]
+      },
+      "licenseInfo": null
+    }
+  ],
+  "repos": [
+    {
+      "id": "R_kgDOQSNwIw",
+      "name": "faizhussain7",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "url": "https://github.com/faizhussain7/faizhussain7",
+      "description": null,
+      "createdAt": "2025-11-09T12:26:54Z",
+      "updatedAt": "2026-04-21T13:49:16Z",
+      "languages": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "forks": {
+        "totalCount": 0
+      },
+      "stargazers": {
+        "totalCount": 1
+      },
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "history": {
+            "totalCount": 17
+          }
+        }
+      },
+      "isEmpty": false,
+      "commits": [
+        {
+          "id": "C_kwDOQSNwI9oAKDc3ODc5YzU4MTgzYTZlY2UwMmRiNzZlNThmODcxZTk3MTliZDNjYWY",
+          "sha": "77879c58183a6ece02db76e58f871e9719bd3caf",
+          "committedDate": "2026-04-21T13:49:10Z",
+          "message": "Automate badge updates with PR creation\n\nAdd permission for pull-requests and switch badge regeneration to dry-run. The workflow now runs `update-my-badges` with `--dryrun` and then uses peter-evans/create-pull-request to open a branch (`chore/update-achievement-badges`) with a commit and PR titled \"chore: update dynamic achievement badges`. The PR is configured to include an explanatory body and to delete the branch after merging. This prevents direct pushes and makes badge updates reviewable.",
+          "messageBody": "Add permission for pull-requests and switch badge regeneration to dry-run. The workflow now runs `update-my-badges` with `--dryrun` and then uses peter-evans/create-pull-request to open a branch (`chore/update-achievement-badges`) with a commit and PR titled \"chore: update dynamic achievement badges`. The PR is configured to include an explanatory body and to delete the branch after merging. This prevents direct pushes and makes badge updates reviewable.",
+          "additions": 16,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKDYyNzcwYzY5YmU0YjM3MWFmY2QwYzRhZTQ0NWE0MjY4MDNiNjk2NDg",
+          "sha": "62770c69be4b371afcd0c4ae445a426803b69648",
+          "committedDate": "2026-04-21T13:46:20Z",
+          "message": "Update Yaml",
+          "messageBody": "",
+          "additions": 2,
+          "deletions": 5,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKGU3Y2Q0ODQ0YTBiZjliZWY5NjFjYWFkYTVmODNmNjUzZTE2YWIwNTU",
+          "sha": "e7cd4844a0bf9bef961caada5f83f653e16ab055",
+          "committedDate": "2026-04-21T13:43:56Z",
+          "message": "Add Node.js 22 setup to badges workflow\n\nInsert a setup-node step into .github/workflows/my-badges.yml to install Node.js 22 LTS using actions/setup-node@v4. This ensures the workflow has Node 22 available before running the dynamic achievement badge generation step, which is likely required by the badge generation tooling.",
+          "messageBody": "Insert a setup-node step into .github/workflows/my-badges.yml to install Node.js 22 LTS using actions/setup-node@v4. This ensures the workflow has Node 22 available before running the dynamic achievement badge generation step, which is likely required by the badge generation tooling.",
+          "additions": 5,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKGZmNjBmODlhMmMzNDQyOGM2YjJjMWEwNjM2YzhjYWE1ODEzMTYwMjU",
+          "sha": "ff60f89a2c34428c6b2c1a0636c8caa581316025",
+          "committedDate": "2026-04-21T13:41:53Z",
+          "message": "Add debug env and simplify badge command\n\nExpose GITHUB_USER and GITHUB_REPO as env vars and print token length, user and repo for debugging Actions permissions. Keep the existing empty-token check, and simplify the npx update-my-badges invocation to pass only the repository owner and remove explicit --repo/--token flags (retain --compact and --size=56). This helps troubleshoot badge generation and reduces command arguments.",
+          "messageBody": "Expose GITHUB_USER and GITHUB_REPO as env vars and print token length, user and repo for debugging Actions permissions. Keep the existing empty-token check, and simplify the npx update-my-badges invocation to pass only the repository owner and remove explicit --repo/--token flags (retain --compact and --size=56). This helps troubleshoot badge generation and reduces command arguments.",
+          "additions": 6,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKDAwNmJlYTRiMTk1NWI4ZmRlYzdkMDAwMmQ0Y2RkNzA4ZDJjMGIwMGE",
+          "sha": "006bea4b1955b8fdec7d0002d4cdd708d2c0b00a",
+          "committedDate": "2026-04-21T13:39:29Z",
+          "message": "Check GITHUB_TOKEN and pass it to update-my-badges\n\nAdd a guard that fails the job with a clear message when GITHUB_TOKEN is missing, and update the npx update-my-badges invocation to pass --repo and --token so the action runs with explicit repository and token parameters.",
+          "messageBody": "Add a guard that fails the job with a clear message when GITHUB_TOKEN is missing, and update the npx update-my-badges invocation to pass --repo and --token so the action runs with explicit repository and token parameters.",
+          "additions": 5,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKDMwODllMjc3NzQ1NjYzMDM2YmYxNWMzOTkyNTQ5NTgzYWYyZDQ4Mzc",
+          "sha": "3089e277745663036bf15c3992549583af2d4837",
+          "committedDate": "2026-04-21T13:35:50Z",
+          "message": "Use npx --yes and remove README badge wrapper\n\nAdd --yes to the update-my-badges invocation in the GitHub Actions workflow to avoid interactive prompts during CI. Also remove the surrounding <div> wrapper in README around the my-badges markers to simplify markup and prevent layout issues.",
+          "messageBody": "Add --yes to the update-my-badges invocation in the GitHub Actions workflow to avoid interactive prompts during CI. Also remove the surrounding <div> wrapper in README around the my-badges markers to simplify markup and prevent layout issues.",
+          "additions": 1,
+          "deletions": 3,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKGIwNjY2NDk3N2YyYzQ3MzVjNjFmNGUwNjY3ODQ5OTEwMjI1YTMyODU",
+          "sha": "b06664977f2c4735c61f4e0667849910225a3285",
+          "committedDate": "2026-04-21T13:33:16Z",
+          "message": "Switch my-badges action to npx update-my-badges\n\nReplace the my-badges/my-badges@master action step with a direct npx invocation of update-my-badges. The workflow now exports GITHUB_TOKEN via env and runs `npx update-my-badges \"${{ github.repository_owner }}\" --compact --size=56`, preserving the previous compact and size options while using the CLI instead of the action.",
+          "messageBody": "Replace the my-badges/my-badges@master action step with a direct npx invocation of update-my-badges. The workflow now exports GITHUB_TOKEN via env and runs `npx update-my-badges \"${{ github.repository_owner }}\" --compact --size=56`, preserving the previous compact and size options while using the CLI instead of the action.",
+          "additions": 4,
+          "deletions": 6,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKDVjNWNkNzRhNzE4ODU0ZjFlMzhmMzYyYThmMjk0NzYwYmIxYmQxY2U",
+          "sha": "5c5cd74a718854f1e38f362a8f294760bb1bd1ce",
+          "committedDate": "2026-04-21T13:31:30Z",
+          "message": "Force Node24 for JS actions and bump checkout\n\nAdd env FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true to ensure JavaScript actions run on Node 24, and upgrade actions/checkout from v4 to v5. This updates the workflow to target the newer Node runtime for JS actions and pull in fixes/features from the latest checkout action.",
+          "messageBody": "Add env FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true to ensure JavaScript actions run on Node 24, and upgrade actions/checkout from v4 to v5. This updates the workflow to target the newer Node runtime for JS actions and pull in fixes/features from the latest checkout action.",
+          "additions": 4,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKDJhYzMyMmE0MzkxOWM0OGFjZDA4NmExMTQ1YzJlYjljYTJmYWYwOGM",
+          "sha": "2ac322a43919c48acd086a1145c2eb9ca2faf08c",
+          "committedDate": "2026-04-21T13:29:52Z",
+          "message": "Use my-badges action from master\n\nUpdate workflow to use my-badges/my-badges@master instead of the v0.4.0 tag so the job pulls the latest action from the default branch. This changes the reference from a fixed tag to a branch ref, which may affect reproducibility — consider pinning to a tag if deterministic behavior is required.",
+          "messageBody": "Update workflow to use my-badges/my-badges@master instead of the v0.4.0 tag so the job pulls the latest action from the default branch. This changes the reference from a fixed tag to a branch ref, which may affect reproducibility — consider pinning to a tag if deterministic behavior is required.",
+          "additions": 1,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKGM2OWE0MWYzZGQwNDI5YTAyYmY3MjcwMzIyZmNhMWY0NmJmNDg5Zjk",
+          "sha": "c69a41f3dd0429a02bf7270322fca1f46bf489f9",
+          "committedDate": "2026-04-21T13:25:49Z",
+          "message": "Run badges workflow on push to main\n\nAdd a push trigger for the main branch to .github/workflows/my-badges.yml so the 'Update achievements badges' workflow runs on pushes to main in addition to manual dispatch and the existing cron schedule. Ensures badge updates occur immediately after changes are merged to main.",
+          "messageBody": "Add a push trigger for the main branch to .github/workflows/my-badges.yml so the 'Update achievements badges' workflow runs on pushes to main in addition to manual dispatch and the existing cron schedule. Ensures badge updates occur immediately after changes are merged to main.",
+          "additions": 3,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKGFiOTY1ZDQ2NGU2ZWQ3ZDk4YWQ4Y2JjNWU1NTM2ZTkyNTBiODY2ZDI",
+          "sha": "ab965d464e6ed7d98ad8cbc5e5536e9250b866d2",
+          "committedDate": "2026-04-21T13:19:09Z",
+          "message": "Add my-badges workflow, update README badges\n\nAdd a new GitHub Actions workflow (my-badges.yml) to generate dynamic achievement badges (scheduled daily and workflow_dispatch) using my-badges/my-badges@v0.4.0. Update README.md: include iOS/Swift and C++ in skill lists and badges, adjust table/layout widths, replace legacy GitHub stats/graphs with profile-summary cards and revamped activity/trophy sections, and add an Achievements placeholder to be populated by the new workflow. These changes improve README visuals and enable automated achievement badges.",
+          "messageBody": "Add a new GitHub Actions workflow (my-badges.yml) to generate dynamic achievement badges (scheduled daily and workflow_dispatch) using my-badges/my-badges@v0.4.0. Update README.md: include iOS/Swift and C++ in skill lists and badges, adjust table/layout widths, replace legacy GitHub stats/graphs with profile-summary cards and revamped activity/trophy sections, and add an Achievements placeholder to be populated by the new workflow. These changes improve README visuals and enable automated achievement badges.",
+          "additions": 55,
+          "deletions": 17,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKGJiM2VkYmM1MjA0OTQ3ZDNhMjY5MWJkZTU0YjNiMTJlMjM1ZmMyYmE",
+          "sha": "bb3edbc5204947d3a2691bde54b3b12e235fc2ba",
+          "committedDate": "2025-11-09T17:31:10Z",
+          "message": "Revise README with updated skills and technologies\n\nUpdated personal introduction and added technologies.",
+          "messageBody": "Updated personal introduction and added technologies.",
+          "additions": 5,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKDA4ZjNkMDliOGIwZDZjYzgyMmQ4YjIxNmYwMDZmNzAxOTMyOGZhOWI",
+          "sha": "08f3d09b8b0d6cc822d8b216f006f7019328fa9b",
+          "committedDate": "2025-11-09T17:19:30Z",
+          "message": "Fix table formatting in README.md",
+          "messageBody": "",
+          "additions": 4,
+          "deletions": 4,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKGYzZDUyNjAyZWEwZWVkM2YwMjRiMDcxMzI5ZTAzMjgxZTBlYzhiNDM",
+          "sha": "f3d52602ea0eed3f024b071329e03281e0ec8b43",
+          "committedDate": "2025-11-09T17:14:20Z",
+          "message": "Revise README for improved presentation and detail\n\nUpdated the README to enhance structure and content clarity.",
+          "messageBody": "Updated the README to enhance structure and content clarity.",
+          "additions": 124,
+          "deletions": 155,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKGQzODk3OGNmNzRjMWY2OTNmNDY2MzFmNWMxMjE2NjFlZDZkNmRkNmM",
+          "sha": "d38978cf74c1f693f46631f5c121661ed6d6dd6c",
+          "committedDate": "2025-11-09T12:48:58Z",
+          "message": "Updated ReadMe",
+          "messageBody": "",
+          "additions": 67,
+          "deletions": 72,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKGE4YjNlNDQ1YmMxNmY3MDYxYTI0MGNjMTA2N2Y3N2JhZWJkMzI5Y2Y",
+          "sha": "a8b3e445bc16f7061a240cc1067f77baebd329cf",
+          "committedDate": "2025-11-09T12:34:58Z",
+          "message": "Rename PROFILE_README.md to README.md",
+          "messageBody": "",
+          "additions": 0,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        },
+        {
+          "id": "C_kwDOQSNwI9oAKGY0ZDAxYjQyYTU2YjdmMDYzOWJlZTIzMzk2OTI2OTUzNmJlMjE1MGE",
+          "sha": "f4d01b42a56b7f0639bee233969269536be2150a",
+          "committedDate": "2025-11-09T12:31:29Z",
+          "message": "My Profile",
+          "messageBody": "",
+          "additions": 234,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "faizhussain7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOQSM6CA",
+      "name": "GQR-GlobalQR",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "url": "https://github.com/faizhussain7/GQR-GlobalQR",
+      "description": "Global QR Scanner - Universal QR code scanner with UPI support, intelligent classification, and beautiful UI. Built with React Native & Expo.",
+      "createdAt": "2025-11-09T11:53:02Z",
+      "updatedAt": "2025-11-10T05:24:45Z",
+      "languages": {
+        "totalCount": 2,
+        "nodes": [
+          {
+            "name": "TypeScript"
+          },
+          {
+            "name": "JavaScript"
+          }
+        ]
+      },
+      "forks": {
+        "totalCount": 0
+      },
+      "stargazers": {
+        "totalCount": 1
+      },
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "history": {
+            "totalCount": 2
+          }
+        }
+      },
+      "isEmpty": false,
+      "commits": [
+        {
+          "id": "C_kwDOQSM6CNoAKDE4MGYyNWFjNjgwMGI3MjMzZWRjMDYwMjg0NTY1OGE3MGUzNjZiZDc",
+          "sha": "180f25ac6800b7233edc0602845658a70e366bd7",
+          "committedDate": "2025-11-09T12:02:43Z",
+          "message": "docs: update README with accurate package versions and project structure",
+          "messageBody": "",
+          "additions": 99,
+          "deletions": 21,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "GQR-GlobalQR"
+          }
+        },
+        {
+          "id": "C_kwDOQSM6CNoAKDkwM2M4ZjE3YTdiYzBmYjhkYmY5NGE4YzE0ZjdkNGM3MGNiY2NhNWY",
+          "sha": "903c8f17a7bc0fb8dbf94a8c14f7d4c70cbcca5f",
+          "committedDate": "2025-11-09T11:56:59Z",
+          "message": "feat: initial commit - Global Smart QR Scanner app\n\n- Set up React Native Expo project with TypeScript\n- Implement QR code scanner using react-native-vision-camera\n- Add intelligent QR code classification (UPI, URL, WiFi, vCard, Email, Phone, Text)\n- Create scanner screen with animated scanning frame and torch toggle\n- Implement result screen with type-specific display cards\n- Add scan history with AsyncStorage persistence (up to 100 items)\n- Integrate UPI payment handling with deep linking support\n- Add dark/light theme support with theme toggle\n- Configure Expo Router for file-based navigation\n- Set up Zustand for state management\n- Add haptic feedback and smooth animations with Moti\n- Include comprehensive README with setup instructions\n- Configure Android build with camera permissions",
+          "messageBody": "- Set up React Native Expo project with TypeScript\n- Implement QR code scanner using react-native-vision-camera\n- Add intelligent QR code classification (UPI, URL, WiFi, vCard, Email, Phone, Text)\n- Create scanner screen with animated scanning frame and torch toggle\n- Implement result screen with type-specific display cards\n- Add scan history with AsyncStorage persistence (up to 100 items)\n- Integrate UPI payment handling with deep linking support\n- Add dark/light theme support with theme toggle\n- Configure Expo Router for file-based navigation\n- Set up Zustand for state management\n- Add haptic feedback and smooth animations with Moti\n- Include comprehensive README with setup instructions\n- Configure Android build with camera permissions",
+          "additions": 6975,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "GQR-GlobalQR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOPidfOg",
+      "name": "Sound-ID",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "url": "https://github.com/faizhussain7/Sound-ID",
+      "description": "SoundID: AI-powered app for instant audio & song identification, built with React Native, TypeScript, Expo, and Nativewind.",
+      "createdAt": "2025-08-22T14:42:07Z",
+      "updatedAt": "2025-11-10T05:24:46Z",
+      "languages": {
+        "totalCount": 3,
+        "nodes": [
+          {
+            "name": "TypeScript"
+          },
+          {
+            "name": "JavaScript"
+          },
+          {
+            "name": "CSS"
+          }
+        ]
+      },
+      "forks": {
+        "totalCount": 0
+      },
+      "stargazers": {
+        "totalCount": 2
+      },
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "history": {
+            "totalCount": 2
+          }
+        }
+      },
+      "isEmpty": false,
+      "commits": [
+        {
+          "id": "C_kwDOPidfOtoAKGY5YTkzMjRjYzMwNmQxNzc0YzEyOWY1OTZmZTU0ODMyYTY4NWFkNDQ",
+          "sha": "f9a9324cc306d1774c129f596fe54832a685ad44",
+          "committedDate": "2025-08-22T14:56:08Z",
+          "message": "Update README.md",
+          "messageBody": "",
+          "additions": 1,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "Sound-ID"
+          }
+        },
+        {
+          "id": "C_kwDOPidfOtoAKDcyYzE2NmIwMDg1OTgyOWIwY2NhYjNhOWEwOTcwMzUxMmM4OWEwODE",
+          "sha": "72c166b00859829b0ccab3a9a09703512c89a081",
+          "committedDate": "2025-08-22T14:48:38Z",
+          "message": "Initial project setup for SoundID app\n\nAdd core files for SoundID including Expo/React Native configuration, main screens, UI components, context, service integration, assets, and TypeScript types. This sets up the foundation for an AI-powered cross-platform song identification app.",
+          "messageBody": "Add core files for SoundID including Expo/React Native configuration, main screens, UI components, context, service integration, assets, and TypeScript types. This sets up the foundation for an AI-powered cross-platform song identification app.",
+          "additions": 15227,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "Sound-ID"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOObSj0A",
+      "name": "Personify",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "url": "https://github.com/faizhussain7/Personify",
+      "description": "A full-stack mobile application built with React Native, Expo, and .NET Core Web API to manage a database of persons with full CRUD functionality.",
+      "createdAt": "2025-04-17T15:16:01Z",
+      "updatedAt": "2025-08-22T13:12:47Z",
+      "languages": {
+        "totalCount": 3,
+        "nodes": [
+          {
+            "name": "TypeScript"
+          },
+          {
+            "name": "JavaScript"
+          },
+          {
+            "name": "CSS"
+          }
+        ]
+      },
+      "forks": {
+        "totalCount": 0
+      },
+      "stargazers": {
+        "totalCount": 1
+      },
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "history": {
+            "totalCount": 4
+          }
+        }
+      },
+      "isEmpty": false,
+      "commits": [
+        {
+          "id": "C_kwDOObSj0NoAKDcwYzc3ODU4MGVlYTIyNzAxOWMzYzRjZGU5MzUxM2ZlZmVmMzI5OGY",
+          "sha": "70c778580eea227019c3c4cde93513fefef3298f",
+          "committedDate": "2025-04-25T03:57:43Z",
+          "message": "Updated index and other screens",
+          "messageBody": "",
+          "additions": 762,
+          "deletions": 755,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "Personify"
+          }
+        },
+        {
+          "id": "C_kwDOObSj0NoAKDZmYjMwM2JlMWUzOWQzMzNmZDY5YWI1YzY5MTJmYmUzMDQ1MTgwMDk",
+          "sha": "6fb303be1e39d333fd69ab5c6912fbe304518009",
+          "committedDate": "2025-04-19T12:52:29Z",
+          "message": "Update README.md",
+          "messageBody": "",
+          "additions": 104,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "Personify"
+          }
+        },
+        {
+          "id": "C_kwDOObSj0NoAKGFmMWExMDViNzQ1NGU0ZTI1MjFkMjA2YzA2MWVmN2I3OGI5YWEwODI",
+          "sha": "af1a105b7454e4e2521d206c061ef7b78b9aa082",
+          "committedDate": "2025-04-17T17:19:28Z",
+          "message": "Personify App",
+          "messageBody": "",
+          "additions": 18273,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "Personify"
+          }
+        },
+        {
+          "id": "C_kwDOObSj0NoAKDM5NWNlMWQ2NGI0NjQ3NTgxZjY5MDk0MzhlMGNiMWJmNzU4MTc5OTA",
+          "sha": "395ce1d64b4647581f6909438e0cb1bf75817990",
+          "committedDate": "2025-04-17T15:16:01Z",
+          "message": "Initial commit",
+          "messageBody": "",
+          "additions": 1,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "Personify"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R_kgDONzuqng",
+      "name": "SupabaseConnect",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "url": "https://github.com/faizhussain7/SupabaseConnect",
+      "description": " A secure, cloud-based app for storing files and images, built with React Native Expo and powered by Supabase.",
+      "createdAt": "2025-02-03T16:35:36Z",
+      "updatedAt": "2025-08-22T13:12:42Z",
+      "languages": {
+        "totalCount": 4,
+        "nodes": [
+          {
+            "name": "TypeScript"
+          },
+          {
+            "name": "JavaScript"
+          },
+          {
+            "name": "HTML"
+          },
+          {
+            "name": "CSS"
+          }
+        ]
+      },
+      "forks": {
+        "totalCount": 0
+      },
+      "stargazers": {
+        "totalCount": 1
+      },
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "history": {
+            "totalCount": 8
+          }
+        }
+      },
+      "isEmpty": false,
+      "commits": [
+        {
+          "id": "C_kwDONzuqntoAKDMzMWZmMWFmYmZjNDM5YjhlZjc5NWRlZDIwY2M2YzI5NDc5NTQ2NDk",
+          "sha": "331ff1afbfc439b8ef795ded20cc6c2947954649",
+          "committedDate": "2025-02-10T03:29:05Z",
+          "message": "Update home.tsx",
+          "messageBody": "",
+          "additions": 14,
+          "deletions": 12,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "SupabaseConnect"
+          }
+        },
+        {
+          "id": "C_kwDONzuqntoAKDEzNjE0NDJmMTcwNDE2ZTUxZmRlZTE5NWEyMDQxNzBjZjlhOTJiMjg",
+          "sha": "1361442f170416e51fdee195a204170cf9a92b28",
+          "committedDate": "2025-02-08T08:04:12Z",
+          "message": "Update README.md",
+          "messageBody": "",
+          "additions": 1,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "SupabaseConnect"
+          }
+        },
+        {
+          "id": "C_kwDONzuqntoAKGFiMjM1NDc0MGNkYmIxMGM1MTMxMzIzODc4MDk1Mjg0ODE0OTZjNzk",
+          "sha": "ab2354740cdbb10c513132387809528481496c79",
+          "committedDate": "2025-02-08T04:51:49Z",
+          "message": "Update README.md",
+          "messageBody": "",
+          "additions": 1,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "SupabaseConnect"
+          }
+        },
+        {
+          "id": "C_kwDONzuqntoAKDUwODdhM2RjOWNmZDE2MDY5NTcxYWQ1OWM3M2M3YzJmY2NiZWU3OWQ",
+          "sha": "5087a3dc9cfd16069571ad59c73c7c2fccbee79d",
+          "committedDate": "2025-02-08T04:50:56Z",
+          "message": "Update README.md",
+          "messageBody": "",
+          "additions": 6,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "SupabaseConnect"
+          }
+        },
+        {
+          "id": "C_kwDONzuqntoAKDRkZTIwYzA2YzczMWFkMTk2ZTU0YzdkYmM4NGFmMmI2MDA4ZGI3MDU",
+          "sha": "4de20c06c731ad196e54c7dbc84af2b6008db705",
+          "committedDate": "2025-02-07T17:26:41Z",
+          "message": "Merge branch 'main' of https://github.com/faizhussain7/SupabaseConnect",
+          "messageBody": "",
+          "additions": 103,
+          "deletions": 31,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "SupabaseConnect"
+          }
+        },
+        {
+          "id": "C_kwDONzuqntoAKDZkMzRlZGI1ODlmNjM1ODcyNjE4MzI2MDEwY2I3ZjYyMjUzZjlhZjY",
+          "sha": "6d34edb589f635872618326010cb7f62253f9af6",
+          "committedDate": "2025-02-07T17:25:58Z",
+          "message": "Update UI and Functions",
+          "messageBody": "",
+          "additions": 64,
+          "deletions": 41,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "SupabaseConnect"
+          }
+        },
+        {
+          "id": "C_kwDONzuqntoAKDM1MjQyNjJiNGM5MjA0NDNkNzkxMjk3ZDA1ZThiZDQyYTUzZmJjMDE",
+          "sha": "3524262b4c920443d791297d05e8bd42a53fbc01",
+          "committedDate": "2025-02-07T11:26:56Z",
+          "message": "Update README.md",
+          "messageBody": "",
+          "additions": 103,
+          "deletions": 31,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "SupabaseConnect"
+          }
+        },
+        {
+          "id": "C_kwDONzuqntoAKDVhMDY3Mzg1OWUxOGJkOGUxMjUzNzZjNjIyZmQzMzQ4ZmI4OTE0YzQ",
+          "sha": "5a0673859e18bd8e125376c622fd3348fb8914c4",
+          "committedDate": "2025-02-07T05:10:08Z",
+          "message": "Supabase Connect\n\nComplete Code",
+          "messageBody": "Complete Code",
+          "additions": 24529,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "SupabaseConnect"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOM430Ng",
+      "name": "AutoAccelerate-API",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "url": "https://github.com/faizhussain7/AutoAccelerate-API",
+      "description": "A Generative AI API Built with Python and FastAPI",
+      "createdAt": "2024-09-29T15:21:12Z",
+      "updatedAt": "2025-08-22T13:12:35Z",
+      "languages": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "Python"
+          }
+        ]
+      },
+      "forks": {
+        "totalCount": 0
+      },
+      "stargazers": {
+        "totalCount": 1
+      },
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "history": {
+            "totalCount": 5
+          }
+        }
+      },
+      "isEmpty": false,
+      "commits": [
+        {
+          "id": "C_kwDOM430NtoAKGY5MjhhOGQyOTYyNjhjZDQzNDFiYzZjNTg1YzkzYmVkZmJmZmE3N2M",
+          "sha": "f928a8d296268cd4341bc6c585c93bedfbffa77c",
+          "committedDate": "2024-09-29T15:47:42Z",
+          "message": "Update README.md",
+          "messageBody": "",
+          "additions": 78,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AutoAccelerate-API"
+          }
+        },
+        {
+          "id": "C_kwDOM430NtoAKDk4NTdjNWFlMDM3MGVkN2NmOGQ3ZTQ4MDY1ZWViMmMxZGIwZDEwZDI",
+          "sha": "9857c5ae0370ed7cf8d7e48065eeb2c1db0d10d2",
+          "committedDate": "2024-09-29T15:28:33Z",
+          "message": "Update requirements.txt",
+          "messageBody": "",
+          "additions": 2,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AutoAccelerate-API"
+          }
+        },
+        {
+          "id": "C_kwDOM430NtoAKDEwYjlkYWQyOTk1NDg0ZTI5MzY5YTRjODVjNTEwMTA3Y2Q0NThkM2M",
+          "sha": "10b9dad2995484e29369a4c85c510107cd458d3c",
+          "committedDate": "2024-09-29T15:28:00Z",
+          "message": "Update main.py",
+          "messageBody": "",
+          "additions": 6,
+          "deletions": 48,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AutoAccelerate-API"
+          }
+        },
+        {
+          "id": "C_kwDOM430NtoAKDMzZmJjZDlhZGU1NzZkNzE1ZWQzODljYmUzMzU3NWZmMjExOGE5YTU",
+          "sha": "33fbcd9ade576d715ed389cbe33575ff2118a9a5",
+          "committedDate": "2024-09-29T15:23:00Z",
+          "message": "API",
+          "messageBody": "",
+          "additions": 104,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AutoAccelerate-API"
+          }
+        },
+        {
+          "id": "C_kwDOM430NtoAKDA1MGI4MDg5YzA4MzkwODljMGMyYzQyM2M3MDY1MTAzZmRiODJmN2M",
+          "sha": "050b8089c0839089c0c2c423c7065103fdb82f7c",
+          "committedDate": "2024-09-29T15:21:13Z",
+          "message": "Initial commit",
+          "messageBody": "",
+          "additions": 2,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AutoAccelerate-API"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOM4ANQg",
+      "name": "AIAutoAccelerate",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "url": "https://github.com/faizhussain7/AIAutoAccelerate",
+      "description": "The Generative AI app offers comprehensive automobile insights and personalized car recommendations.",
+      "createdAt": "2024-09-27T11:10:56Z",
+      "updatedAt": "2025-08-22T13:12:30Z",
+      "languages": {
+        "totalCount": 2,
+        "nodes": [
+          {
+            "name": "TypeScript"
+          },
+          {
+            "name": "JavaScript"
+          }
+        ]
+      },
+      "forks": {
+        "totalCount": 0
+      },
+      "stargazers": {
+        "totalCount": 1
+      },
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "history": {
+            "totalCount": 15
+          }
+        }
+      },
+      "isEmpty": false,
+      "commits": [
+        {
+          "id": "C_kwDOM4ANQtoAKDQyZDQ2YmQxZTE5MjBhY2VhZDZkYjkwZmZjZDY3NzI4ZWNlNDNhMjU",
+          "sha": "42d46bd1e1920acead6db90ffcd67728ece43a25",
+          "committedDate": "2024-10-12T11:47:18Z",
+          "message": "Updated Layouts and Index\n\n1. Optimized the index and layout files for the web.\n\n2. Made some updates using the `useWebDimensions` hook.",
+          "messageBody": "1. Optimized the index and layout files for the web.\n\n2. Made some updates using the `useWebDimensions` hook.",
+          "additions": 569,
+          "deletions": 90,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKDM1YmU1OGE1ZTk5ZjE3ODNkNzM0MDhkYWFkYWMzM2YzZjJlYmJjNjE",
+          "sha": "35be58a5e99f1783d73408daadac33f3f2ebbc61",
+          "committedDate": "2024-10-12T11:27:24Z",
+          "message": "Add eas Json",
+          "messageBody": "",
+          "additions": 21,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKDZlOTQ4YjdlMTc3MmJiZDcxOWY1ZDg2NDkwMGU0MDQ2NjhkODA2NWY",
+          "sha": "6e948b7e1772bbd719f5d864900e404668d8065f",
+          "committedDate": "2024-10-12T11:26:18Z",
+          "message": "Update app.json",
+          "messageBody": "",
+          "additions": 9,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKGVmM2JjZmMxYWQwOGJjNzI5ZGZmNDMzMmVkMTVlNzEwMzY5Y2MwOWY",
+          "sha": "ef3bcfc1ad08bc729dff4332ed15e710369cc09f",
+          "committedDate": "2024-09-28T10:58:33Z",
+          "message": "Update Readme.md",
+          "messageBody": "",
+          "additions": 18,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKGZjNjVmZjk0ZmNlNmRmNGUyYjliMjNlOWY2N2ZlODY3OWYxMDlmMzM",
+          "sha": "fc65ff94fce6df4e2b9b23e9f67fe8679f109f33",
+          "committedDate": "2024-09-28T09:00:43Z",
+          "message": "Update Readme.md",
+          "messageBody": "",
+          "additions": 7,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKGY4MDQ2OTQ2NzBhNWM4YTI0OWY0ZjYzMTRjNDc2MmI0YTlkZmQyNDI",
+          "sha": "f804694670a5c8a249f4f6314c4762b4a9dfd242",
+          "committedDate": "2024-09-28T05:04:44Z",
+          "message": "Updated Readme.md\n\nUpdated Readme.md with Project Information.",
+          "messageBody": "Updated Readme.md with Project Information.",
+          "additions": 55,
+          "deletions": 27,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKDVkOTI1OTBlNDFmMWQwM2IyMTdmMmI3N2ViMDc1Mjg5NmY4ZGUwOTU",
+          "sha": "5d92590e41f1d03b217f2b77eb0752896f8de095",
+          "committedDate": "2024-09-27T18:09:26Z",
+          "message": "Updated _layout.tsx\n\nAdded new AuthStateChanged Logic!",
+          "messageBody": "Added new AuthStateChanged Logic!",
+          "additions": 23,
+          "deletions": 11,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKGY0ZTk0NTE1N2Q4MjJhZDhhNmIyNjI1ZjViOWQ2YjFkZmIwZDZmNWM",
+          "sha": "f4e945157d822ad8a6b2625f5b9d6b1dfb0d6f5c",
+          "committedDate": "2024-09-27T12:13:33Z",
+          "message": "index.tsx",
+          "messageBody": "",
+          "additions": 1,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKDk4Njg3OWUzYWM2ODhkMzc3OTQ3NzUzYjAwZGQ5N2NkMDMzOGM0OTg",
+          "sha": "986879e3ac688d377947753b00dd97cd0338c498",
+          "committedDate": "2024-09-27T12:11:37Z",
+          "message": "Update response.tsx",
+          "messageBody": "",
+          "additions": 2,
+          "deletions": 383,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKDliYWM4MzczODAxMDU5YTFmZjAzYjFlZTcyYjMyY2JjNjNmNDA2YTU",
+          "sha": "9bac8373801059a1ff03b1ee72b32cbc63f406a5",
+          "committedDate": "2024-09-27T12:00:08Z",
+          "message": "Delete .env",
+          "messageBody": "",
+          "additions": 0,
+          "deletions": 6,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKGNlY2NlMzRmODRjNWU0ZGZhMjYwOWRjMWEyYmJkOGMyMTYwNGJiMWY",
+          "sha": "cecce34f84c5e4dfa2609dc1a2bbd8c21604bb1f",
+          "committedDate": "2024-09-27T11:57:37Z",
+          "message": "Update .gitignore",
+          "messageBody": "",
+          "additions": 1,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKDU2Njk2MWYzOWZiZjM1NjZjMGM2MGYwY2Q5ZDNhMjhhMWIyODU4MWE",
+          "sha": "566961f39fbf3566c0c60f0cd9d3a28a1b28581a",
+          "committedDate": "2024-09-27T11:57:03Z",
+          "message": "Create .env",
+          "messageBody": "",
+          "additions": 6,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKDkyNWUxMDM5YzEwZDZjOWVkYjhmNDdlNzgwOTFhOWRlZDUxYjZlOTc",
+          "sha": "925e1039c10d6c9edb8f47e78091a9ded51b6e97",
+          "committedDate": "2024-09-27T11:55:12Z",
+          "message": "Update .gitignore",
+          "messageBody": "",
+          "additions": 1,
+          "deletions": 2,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKDNiMGU4Yzk0OTMzMmFhMDFlNTk0YzA4ZjdlNWVhNzEwZmE0OTlhYmQ",
+          "sha": "3b0e8c949332aa01e594c08f7e5ea710fa499abd",
+          "committedDate": "2024-09-27T11:42:01Z",
+          "message": "Complete App",
+          "messageBody": "",
+          "additions": 24789,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        },
+        {
+          "id": "C_kwDOM4ANQtoAKDc1Yjk0MGNlZjE2NWM3OGQ1NDZiOGZjZDRhMmJkNjcyZWRjZjk0ODQ",
+          "sha": "75b940cef165c78d546b8fcd4a2bd672edcf9484",
+          "committedDate": "2024-09-27T11:12:22Z",
+          "message": "Create Readme.md",
+          "messageBody": "",
+          "additions": 1,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "AIAutoAccelerate"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOL-jv-A",
+      "name": "DeepLearning-SelfDrivingCar",
+      "owner": {
+        "login": "faizhussain7"
+      },
+      "url": "https://github.com/faizhussain7/DeepLearning-SelfDrivingCar",
+      "description": null,
+      "createdAt": "2024-05-21T11:58:39Z",
+      "updatedAt": "2025-08-22T13:12:24Z",
+      "languages": {
+        "totalCount": 2,
+        "nodes": [
+          {
+            "name": "Python"
+          },
+          {
+            "name": "kvlang"
+          }
+        ]
+      },
+      "forks": {
+        "totalCount": 0
+      },
+      "stargazers": {
+        "totalCount": 1
+      },
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "history": {
+            "totalCount": 5
+          }
+        }
+      },
+      "isEmpty": false,
+      "commits": [
+        {
+          "id": "C_kwDOL-jv-NoAKGYxNTUwNGM3ZjI2YTdmZDI5MThkNmQ2YTkzZTk4MWVhY2ZlZTZhMjg",
+          "sha": "f15504c7f26a7fd2918d6d6a93e981eacfee6a28",
+          "committedDate": "2024-05-22T11:31:49Z",
+          "message": "Deleted .gitignore",
+          "messageBody": "",
+          "additions": 0,
+          "deletions": 160,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "DeepLearning-SelfDrivingCar"
+          }
+        },
+        {
+          "id": "C_kwDOL-jv-NoAKDhlNWVjYTM4NWU4ZTFhZmNjYmU5OTk2YjA2ZjY5NWMxOTBhNTU0N2E",
+          "sha": "8e5eca385e8e1afccbe9996b06f695c190a5547a",
+          "committedDate": "2024-05-22T11:29:15Z",
+          "message": "Added .gitignore file",
+          "messageBody": "",
+          "additions": 160,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "DeepLearning-SelfDrivingCar"
+          }
+        },
+        {
+          "id": "C_kwDOL-jv-NoAKDIyOTM1NmJlZTQxOTNhY2I3MTdjNTY5NjdiZDAwOWIzNDI1YmQxN2Q",
+          "sha": "229356bee4193acb717c56967bd009b3425bd17d",
+          "committedDate": "2024-05-21T13:50:52Z",
+          "message": "Updated README.md",
+          "messageBody": "",
+          "additions": 34,
+          "deletions": 17,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "DeepLearning-SelfDrivingCar"
+          }
+        },
+        {
+          "id": "C_kwDOL-jv-NoAKDk4MzU1ZjkwMDFkYzhjYmY1MjYyN2MwY2MzODRmNmE5MmQ2MDBiNzM",
+          "sha": "98355f9001dc8cbf52627c0cc384f6a92d600b73",
+          "committedDate": "2024-05-21T13:41:52Z",
+          "message": "Updated map_commented.py",
+          "messageBody": "",
+          "additions": 1,
+          "deletions": 1,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": null
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "DeepLearning-SelfDrivingCar"
+          }
+        },
+        {
+          "id": "C_kwDOL-jv-NoAKDZkNTY0ZjY5YTk2ODBjMmVhZWVhZTlhNTg5MmRkYzZjZGQyMjViOTY",
+          "sha": "6d564f69a9680c2eaeeae9a5892ddc6cdd225b96",
+          "committedDate": "2024-05-21T12:00:54Z",
+          "message": "Complete Project",
+          "messageBody": "",
+          "additions": 652,
+          "deletions": 0,
+          "author": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "committer": {
+            "user": {
+              "login": "faizhussain7"
+            }
+          },
+          "repository": {
+            "owner": {
+              "login": "faizhussain7"
+            },
+            "name": "DeepLearning-SelfDrivingCar"
+          }
+        }
+      ]
+    }
+  ],
+  "pulls": [],
+  "issues": [
+    {
+      "id": "I_kwDOHG8ut86qmb4O",
+      "createdAt": "2025-02-19T04:42:58Z",
+      "closedAt": "2025-02-25T09:26:58Z",
+      "closed": true,
+      "author": {
+        "login": "faizhussain7"
+      },
+      "url": "https://github.com/nativewind/nativewind/issues/1417",
+      "number": 1417,
+      "title": "Bundling Hangs in Native Wind V4 (4.1.23) - Android",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "needs reproduction"
+          }
+        ]
+      },
+      "body": "#610 \n\nstuck at 98% this happening if importing global CSS, if not working fine \n\nissue includes web also\n\n```\n\"expo\" : {\n\"userInterfaceStyle\": \"automatic\",\n}\n```\n\n```\n\"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^7.0.3\",\n    \"expo\": \"^52.0.35\",\n    \"expo-constants\": \"~17.0.6\",\n    \"expo-document-picker\": \"~13.0.3\",\n    \"expo-linking\": \"~7.0.5\",\n    \"expo-router\": \"~4.0.6\",\n    \"expo-status-bar\": \"~2.0.1\",\n    \"expo-system-ui\": \"~4.0.8\",\n    \"expo-web-browser\": \"~14.0.2\",\n    \"nativewind\": \"^4.1.23\",\n    \"react\": \"18.3.1\",\n    \"react-dom\": \"18.3.1\",\n    \"react-native\": \"0.76.7\",\n    \"react-native-gesture-handler\": \"~2.20.2\",\n    \"react-native-reanimated\": \"3.16.2\",\n    \"react-native-safe-area-context\": \"4.12.0\",\n    \"react-native-screens\": \"~4.4.0\",\n    \"react-native-web\": \"~0.19.10\",\n    \"react-native-webview\": \"13.12.5\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.3.12\",\n    \"@typescript-eslint/eslint-plugin\": \"^7.7.0\",\n    \"@typescript-eslint/parser\": \"^7.7.0\",\n    \"autoprefixer\": \"^10.4.20\",\n    \"eslint\": \"^8.57.0\",\n    \"eslint-config-universe\": \"^12.0.1\",\n    \"postcss\": \"^8.5.2\",\n    \"prettier\": \"^3.2.5\",\n    \"prettier-plugin-tailwindcss\": \"^0.5.11\",\n    \"tailwindcss\": \"3.3.2\",\n    \"typescript\": \"~5.3.3\"\n  },\n```",
+      "comments": {
+        "totalCount": 5
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "isPrivate": false,
+        "nameWithOwner": "nativewind/nativewind",
+        "owner": {
+          "login": "nativewind"
+        },
+        "name": "nativewind"
+      },
+      "reactionsTotal": {
+        "totalCount": 0
+      },
+      "timelineItemsTotal": {
+        "totalCount": 12
+      },
+      "closedBy": "danstepanov"
+    }
+  ],
+  "issueComments": [
+    {
+      "id": "IC_kwDOA-tE4c6eXJN8",
+      "url": "https://github.com/expo/expo/issues/34836#issuecomment-2656867196",
+      "author": {
+        "login": "faizhussain7"
+      },
+      "repository": {
+        "nameWithOwner": "expo/expo"
+      },
+      "issue": {
+        "number": 34836,
+        "author": {
+          "login": "josiext"
+        }
+      },
+      "body": "Going with the same issue just downgraded the expo version to 52.0.28 and it worked but tailwind (nativewind) is not working not getting applied\n@Bialson Thanks and also and If anyone can provide the solution for this native wind ",
+      "createdAt": "2025-02-13T14:58:55Z",
+      "updatedAt": "2025-02-13T14:58:55Z",
+      "editor": null,
+      "reactionsTotal": {
+        "totalCount": 0
+      }
+    },
+    {
+      "id": "IC_kwDOA-tE4c6e72Pk",
+      "url": "https://github.com/expo/expo/issues/34836#issuecomment-2666488804",
+      "author": {
+        "login": "faizhussain7"
+      },
+      "repository": {
+        "nameWithOwner": "expo/expo"
+      },
+      "issue": {
+        "number": 34836,
+        "author": {
+          "login": "josiext"
+        }
+      },
+      "body": "Fixed : Native Wind styles for Dom components\n\nits work within individual DOM components but not through _layout.tsx.  Styles are only applied to non-DOM components through _layout.tsx. ",
+      "createdAt": "2025-02-18T18:01:53Z",
+      "updatedAt": "2025-02-18T18:01:53Z",
+      "editor": null,
+      "reactionsTotal": {
+        "totalCount": 0
+      }
+    },
+    {
+      "id": "IC_kwDOHG8ut86e8A9s",
+      "url": "https://github.com/nativewind/nativewind/issues/610#issuecomment-2666532716",
+      "author": {
+        "login": "faizhussain7"
+      },
+      "repository": {
+        "nameWithOwner": "nativewind/nativewind"
+      },
+      "issue": {
+        "number": 610,
+        "author": {
+          "login": "revolution42"
+        }
+      },
+      "body": "stuck at 98% did you solved @Tejasp2003 \nthis happening if importing global CSS, if not working fine\n\n```\n\"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^7.0.3\",\n    \"expo\": \"^52.0.35\",\n    \"expo-constants\": \"~17.0.6\",\n    \"expo-document-picker\": \"~13.0.3\",\n    \"expo-linking\": \"~7.0.5\",\n    \"expo-router\": \"~4.0.6\",\n    \"expo-status-bar\": \"~2.0.1\",\n    \"expo-system-ui\": \"~4.0.8\",\n    \"expo-web-browser\": \"~14.0.2\",\n    \"nativewind\": \"^4.1.23\",\n    \"react\": \"18.3.1\",\n    \"react-dom\": \"18.3.1\",\n    \"react-native\": \"0.76.7\",\n    \"react-native-gesture-handler\": \"~2.20.2\",\n    \"react-native-reanimated\": \"3.16.2\",\n    \"react-native-safe-area-context\": \"4.12.0\",\n    \"react-native-screens\": \"~4.4.0\",\n    \"react-native-web\": \"~0.19.10\",\n    \"react-native-webview\": \"13.12.5\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.3.12\",\n    \"@typescript-eslint/eslint-plugin\": \"^7.7.0\",\n    \"@typescript-eslint/parser\": \"^7.7.0\",\n    \"autoprefixer\": \"^10.4.20\",\n    \"eslint\": \"^8.57.0\",\n    \"eslint-config-universe\": \"^12.0.1\",\n    \"postcss\": \"^8.5.2\",\n    \"prettier\": \"^3.2.5\",\n    \"prettier-plugin-tailwindcss\": \"^0.5.11\",\n    \"tailwindcss\": \"3.3.2\",\n    \"typescript\": \"~5.3.3\"\n  },\n```",
+      "createdAt": "2025-02-18T18:21:58Z",
+      "updatedAt": "2025-02-18T18:21:58Z",
+      "editor": null,
+      "reactionsTotal": {
+        "totalCount": 0
+      }
+    },
+    {
+      "id": "IC_kwDOHG8ut86fdlA4",
+      "url": "https://github.com/nativewind/nativewind/issues/1420#issuecomment-2675331128",
+      "author": {
+        "login": "faizhussain7"
+      },
+      "repository": {
+        "nameWithOwner": "nativewind/nativewind"
+      },
+      "issue": {
+        "number": 1420,
+        "author": {
+          "login": "ursnj"
+        }
+      },
+      "body": "Currently nativewind is completely broken\n\nIn my scenario \n\nWhile Bundling it was getting hanged at 98%\n\nNow it is Bundling but styles are are not getting applied \n\nCreating multiple native.env.types where its already exists\n\nI tried deleting node modules and package lock json \nand  still not working and also many other approaches nothing is working\n\nThis is happening with SDK 52 ",
+      "createdAt": "2025-02-21T19:05:39Z",
+      "updatedAt": "2025-02-21T19:05:39Z",
+      "editor": null,
+      "reactionsTotal": {
+        "totalCount": 1
+      },
+      "reactions": [
+        {
+          "user": {
+            "login": "ursnj"
+          },
+          "content": "THUMBS_UP",
+          "createdAt": "2025-02-23T13:55:09Z"
+        }
+      ]
+    },
+    {
+      "id": "IC_kwDOHG8ut86iRm6a",
+      "url": "https://github.com/nativewind/nativewind/issues/1417#issuecomment-2722524826",
+      "author": {
+        "login": "faizhussain7"
+      },
+      "repository": {
+        "nameWithOwner": "nativewind/nativewind"
+      },
+      "issue": {
+        "number": 1417,
+        "author": {
+          "login": "faizhussain7"
+        }
+      },
+      "body": "@alanquigley-toast  Just create a new project and migrate your code from this project to new project don't change the versions of expo,nativewind and tailwindcss\n\nFor creating new use create-expo-stack",
+      "createdAt": "2025-03-13T19:49:26Z",
+      "updatedAt": "2025-03-13T19:49:26Z",
+      "editor": null,
+      "reactionsTotal": {
+        "totalCount": 0
+      }
+    }
+  ],
+  "discussionComments": []
+}
