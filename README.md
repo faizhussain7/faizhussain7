@@ -119,11 +119,11 @@ Open-source projects in mobile & AI
 
 ## Featured Projects
 
-### Top Repositories
+### Latest Repositories
 
-[![GQR Repository](https://github-readme-stats.vercel.app/api/pin/?username=faizhussain7&repo=GQR---GlobalQR&theme=gruvbox&hide_border=true)](https://github.com/faizhussain7/GQR---GlobalQR)
-
-**💡 Dynamic Updates:** Repository cards automatically show latest stats, stars, and commits!
+<!-- top-repositories start -->
+_Latest repositories are fetched automatically._
+<!-- top-repositories end -->
 
 </td>
 </tr>
