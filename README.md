@@ -122,7 +122,11 @@ Open-source projects in mobile & AI
 ### Latest Repositories
 
 <!-- top-repositories start -->
-_Latest repositories are fetched automatically._
+[![UItrends Repository](https://github-readme-stats.vercel.app/api/pin/?username=faizhussain7&repo=UItrends&theme=gruvbox&hide_border=true)](https://github.com/faizhussain7/UItrends)
+
+[![GQR-GlobalQR Repository](https://github-readme-stats.vercel.app/api/pin/?username=faizhussain7&repo=GQR-GlobalQR&theme=gruvbox&hide_border=true)](https://github.com/faizhussain7/GQR-GlobalQR)
+
+**💡 Dynamic Updates:** Latest repositories are fetched automatically; card stats refresh on every page view!
 <!-- top-repositories end -->
 
 </td>
