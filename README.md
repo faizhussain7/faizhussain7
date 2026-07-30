@@ -52,7 +52,7 @@
 
 <div align="center">
   <b>Currently Learning</b><br>
-  iOS (Swift) · Advanced Kotlin & Compose · AI/ML for healthcare · C++ for streaming · React Native systems
+  iOS (Swift) · Advanced Kotlin & Compose · AI/ML for healthcare · C++ Fundamentals & Core · React Native systems
 </div>
 
 <br>
