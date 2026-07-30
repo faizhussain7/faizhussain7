@@ -1,3 +1,13 @@
+<!-- my-badges start -->
+<p align="center">
+  <a href="my-badges/ab-commit.md" title="One of my commit sha starts with "ab"."><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="Ab Commit" width="64" /></a>
+  <a href="my-badges/epic-commit.md" title="I made an epic commit with a message over 500 chars."><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic Commit" width="64" /></a>
+  <a href="my-badges/favorite-word.md" title="My favorite word is "add"."><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="Favorite Word" width="64" /></a>
+  <a href="my-badges/self-star.md" title="I've starred 8 my own repositories."><img src="https://my-badges.github.io/my-badges/self-star.png" alt="Self Star" width="64" /></a>
+  <a href="my-badges/sleepy-coder.md" title="I am a sleepy coder."><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Sleepy Coder" width="64" /></a>
+</p>
+<!-- my-badges end -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Faiz+Hussain;Mobile+%2B+Backend+Engineer;Android+%C2%B7+React+Native+%C2%B7+AI+Healthcare" alt="Typing SVG" />
 </div>
@@ -56,7 +66,10 @@
   </a>
   <br><br>
   <!-- open-source-contributions start -->
-  <!-- open-source-contributions end -->
+<p align="left">
+- <a href="https://github.com/LibChecker/LibChecker/pull/2129"><b>LibChecker/LibChecker</b></a> — UI/UX Optimization: Resolving List Scroll Stalling and Navigation Interoperability Regressions
+</p>
+<!-- open-source-contributions end -->
 </div>
 
 <br>
