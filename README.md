@@ -1,232 +1,75 @@
 <div align="center">
-
-# Hi there, I'm Faiz Hussain! 👋
-
-I build mobile apps and backend systems (Android, React Native, iOS, .NET Core, FastAPI) and can also create web apps.  
-I work on web scraping, AI/ML integrations, and love experimenting with new tech.  
-Always building things that actually work and learning as I go! 🚀
-
-[![GitHub followers](https://img.shields.io/github/followers/faizhussain7?label=Follow&style=social)](https://github.com/faizhussain7)
-[![GitHub stars](https://img.shields.io/github/stars/faizhussain7?label=Stars&style=social)](https://github.com/faizhussain7)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Faiz+Hussain;Mobile+%2B+Backend+Engineer;Android+%C2%B7+React+Native+%C2%B7+AI+Healthcare" alt="Typing SVG" />
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-## About Me
-
-### Current Work
-Working on mobile applications and AI/ML projects
-
-### Learning
-- → Kotlin & Jetpack Compose
-- → Advanced Python & Machine Learning
-- → React Native patterns
-- → Expanding hands in iOS and exploring it
-- → Taking interest in C++ core and its uses
-
-### Collaboration
-Open-source projects in mobile & AI
-
-### Skills
-- → Kotlin, Jetpack Compose, Android
-- → React Native, Expo, TypeScript
-- → Python, AI/ML, Backend
-- → Swift, iOS, C++
-
-### Contact
-[mfaizhussain7@gmail.com](mailto:mfaizhussain7@gmail.com)
-
-> ✨ Passionate about building real-world solutions combining mobile & AI technologies
-
-</td>
-<td width="50%" valign="top">
-
-## Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Languages & Core
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"><br>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"><br>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-
-</td>
-<td width="50%" valign="top">
-
-### Mobile Development
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"><br>
-<img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"><br>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"><br>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### AI & Machine Learning
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"><br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"><br>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"><br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-
-</td>
-<td width="50%" valign="top">
-
-### Backend & Tools
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"><br>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"><br>
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"><br>
-<img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"><br>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white">
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizhussain7&theme=github_dark" width="82%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faizhussain7&theme=github_dark" width="82%" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-## Featured Projects
-
-### Latest Repositories
-
-<!-- top-repositories start -->
-[![UItrends Repository](https://github-readme-stats.vercel.app/api/pin/?username=faizhussain7&repo=UItrends&theme=gruvbox&hide_border=true)](https://github.com/faizhussain7/UItrends)
-
-[![GQR-GlobalQR Repository](https://github-readme-stats.vercel.app/api/pin/?username=faizhussain7&repo=GQR-GlobalQR&theme=gruvbox&hide_border=true)](https://github.com/faizhussain7/GQR-GlobalQR)
-
-**💡 Dynamic Updates:** Latest repositories are fetched automatically; card stats refresh on every page view!
-<!-- top-repositories end -->
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## Skills Breakdown
-
-### Android Development
-Kotlin • Jetpack Compose • Native Android • Material Design • Architecture Components
-
-### Python & AI/ML
-Python • Machine Learning • Data Science • Neural Networks • API Development
-
-### General Development
-Git/GitHub • RESTful APIs • Database Design • Problem Solving • Code Optimization
-
-</td>
-<td width="50%" valign="top">
-
-## What I'm Working On
-
-- Building mobile applications with React Native and Android (Kotlin & Jetpack Compose)
-- Exploring AI/ML with Python
-- Creating innovative mobile solutions
-- Contributing to open-source projects
-- Learning new technologies and frameworks
-
-## Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-**✨ Quote updates automatically on every page refresh!**
-
-</td>
-</tr>
-</table>
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizhussain7&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=Commit%20Activity" width="88%" />
-  <img src="https://streak-stats.demolab.com?user=faizhussain7&theme=github-dark-blue&hide_border=true&card_width=460" width="72%" />
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## GitHub Trophies
-
-![GitHub Trophies](https://trophy.ryglcloud.net/?username=faizhussain7&theme=onestar&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10)
-
-</td>
-<td width="50%" valign="top">
-
-## Achievements
-
-**Official GitHub Achievements**
-<!-- official-achievements start -->
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" title="Quickdraw" width="64" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" title="Pull Shark" width="64" />
-</p>
-<!-- official-achievements end -->
-
-**Badges**
-<!-- my-badges start -->
-<p align="center">
-  <a href="my-badges/ab-commit.md" title="One of my commit sha starts with "ab"."><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="Ab Commit" width="64" /></a>
-  <a href="my-badges/epic-commit.md" title="I made an epic commit with a message over 500 chars."><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic Commit" width="64" /></a>
-  <a href="my-badges/favorite-word.md" title="My favorite word is "add"."><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="Favorite Word" width="64" /></a>
-  <a href="my-badges/self-star.md" title="I've starred 8 my own repositories."><img src="https://my-badges.github.io/my-badges/self-star.png" alt="Self Star" width="64" /></a>
-  <a href="my-badges/sleepy-coder.md" title="I am a sleepy coder."><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Sleepy Coder" width="64" /></a>
-</p>
-<!-- my-badges end -->
-
-</td>
-</tr>
-</table>
+<br>
 
 <div align="center">
+  <b>Faiz Hussain</b><br>
+  Mobile + Backend Engineer<br>
+  Building mobile apps that ship · systems that hold up · AI in healthcare
+</div>
 
-## Connect With Me
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizhussain7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfaizhussain7/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m_faizhussain7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfaizhussain7@gmail.com)
+<div align="center">
+  <a href="https://github.com/faizhussain7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mfaizhussain7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/m_faizhussain7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:mfaizhussain7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
-### From [faizhussain7](https://github.com/faizhussain7)
+<br>
 
-**Thanks for visiting! Feel free to fork, star, or contribute to any of my projects.**
+<div align="center">
+  <b>I ship Android / iOS / React Native apps and the backend systems behind them.</b><br>
+  Currently focused on <b>AI in healthcare</b> — diagnostics, patient workflows, clinical decision tooling.
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=faizhussain7&color=FF6B6B&style=for-the-badge)
+<br>
 
-_Let's connect and collaborate on exciting projects!_ 🚀
+<div align="center">
+  <b>Stack</b><br><br>
+  <img src="https://i.icoziv.workers.dev/icons?i=kotlin,java,python,android,react,swift,fastapi,nestjs,docker,postgres,cpp&perline=11" alt="Stack"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>
+  <img src="https://img.shields.io/badge/RTSP-333333?style=flat-square" alt="RTSP"/>
+  <img src="https://img.shields.io/badge/HLS-333333?style=flat-square" alt="HLS"/>
+  <img src="https://img.shields.io/badge/MediaMTX-333333?style=flat-square" alt="MediaMTX"/>
+</div>
 
+<br>
+
+<div align="center">
+  <b>Currently Learning</b><br>
+  iOS (Swift) · Advanced Kotlin & Compose · AI/ML for healthcare · C++ for streaming · React Native systems
+</div>
+
+<br>
+
+<div align="center">
+  <b>Latest Repos</b>
+  <!-- top-repositories start -->
+  <!-- top-repositories end -->
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizhussain7&theme=github_dark" width="400" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faizhussain7&theme=github_dark" width="400" alt="Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizhussain7&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=Commit%20Activity" width="85%" alt="Activity"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=faizhussain7&theme=github-dark-blue&hide_border=true&card_width=420" width="60%" alt="Streak"/>
+</div>
+
+<br>
+
+<div align="center">
+  <i>Mobile systems · Backend infrastructure · AI applied to healthcare</i>
 </div>
