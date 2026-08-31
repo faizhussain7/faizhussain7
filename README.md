@@ -43,8 +43,8 @@
   <img src="https://i.icoziv.workers.dev/icons?i=kotlin,java,python,android,react,swift,fastapi,nestjs,docker,postgres,cpp&perline=11" alt="Stack"/>
   <br><br>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>
-  <img src="https://img.shields.io/badge/RTSP-333333?style=flat-square" alt="RTSP"/>
-  <img src="https://img.shields.io/badge/HLS-333333?style=flat-square" alt="HLS"/>
+  <img src="https://img.shields.io/badge/RTLS-333333?style=flat-square" alt="RTLS"/>
+  <img src="https://img.shields.io/badge/HIS-333333?style=flat-square" alt="HIS"/>
   <img src="https://img.shields.io/badge/MediaMTX-333333?style=flat-square" alt="MediaMTX"/>
 </div>
 
